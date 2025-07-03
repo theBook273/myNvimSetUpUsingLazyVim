@@ -24,7 +24,7 @@ return {
   {
     "LazyVim/LazyVim",
     opts = {
-      colorscheme = "evergarden-fall",
+      colorscheme = "gruvbox-material",
     },
   },
 }
