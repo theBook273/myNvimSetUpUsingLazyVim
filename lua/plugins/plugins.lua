@@ -23,8 +23,6 @@ return {
 
   {
     "LazyVim/LazyVim",
-    opts = {
-      colorscheme = "gruvbox-material",
-    },
   },
+  require("catppuccin").load("mocha"),
 }

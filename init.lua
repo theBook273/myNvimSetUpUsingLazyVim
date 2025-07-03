@@ -15,5 +15,5 @@ local alpha = function()
 end
 -- g:neovide_opacity should be 0 if you want to unify transparency of content and title bar.
 vim.g.neovide_opacity = 0.9
-vim.g.transparency = 0.3
+vim.g.transparency = 0.83
 vim.g.neovide_background_color = "#0f1117" .. alpha()
