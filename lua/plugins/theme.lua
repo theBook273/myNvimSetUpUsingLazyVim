@@ -23,6 +23,8 @@ return {
 
   {
     "LazyVim/LazyVim",
+    opts = {
+      colorscheme = "evergarden-winter",
+    },
   },
-  require("catppuccin").load("mocha"),
 }
