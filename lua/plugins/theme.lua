@@ -25,7 +25,7 @@ return {
   {
     "LazyVim/LazyVim",
     opts = {
-      colorscheme = "evergarden-winter",
+      colorscheme = "onedark_dark",
     },
   },
 }
