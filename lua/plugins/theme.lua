@@ -22,10 +22,13 @@ return {
   { "sainnhe/everforest" },
 
   { "EdenEast/nightfox.nvim" },
+
+  { "maxmx03/solarized.nvim" },
+
   {
     "LazyVim/LazyVim",
     opts = {
-      colorscheme = "onedark_dark",
+      colorscheme = "gruvbox",
     },
   },
 }
