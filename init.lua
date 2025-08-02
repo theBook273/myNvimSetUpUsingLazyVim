@@ -20,12 +20,6 @@ if vim.g.neovide then
   vim.g.neovide_opacity = 0.8
   vim.g.transparency = 0.8
 
-  --shadow
-  vim.g.neovide_floating_shadow = false
-  vim.g.neovide_floating_z_height = 10
-  vim.g.neovide_light_angle_degrees = 45
-  vim.g.neovide_light_radius = 5
-
   vim.g.neovide_position_animation_length = 0.2
   vim.g.neovide_scroll_animation_length = 0.2
 
