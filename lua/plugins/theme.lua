@@ -25,10 +25,12 @@ return {
 
   { "maxmx03/solarized.nvim" },
 
+  { "projekt0n/github-nvim-theme", name = "github-theme" },
+
   {
     "LazyVim/LazyVim",
     opts = {
-      colorscheme = "gruvbox",
+      colorscheme = "github_light_default",
     },
   },
 }
